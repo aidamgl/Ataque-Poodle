@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  server:
+    container_name: server_vulnerable_poodle
+    image: aidamgly/serverfinal_vulnerable_poodle
+
+    ports:
+      - "32080:80"
+      - "32443:443"
+    security_opt:
+      - no-new-privileges:true
+    tty: true          # Equivalente a la opción -it
+   # command: /usr/local/nginx/sbin/./nginx
