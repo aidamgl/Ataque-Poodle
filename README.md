@@ -95,4 +95,4 @@ Una vez que el ataque se haya completado con éxito, la información descifrada 
 - El ataque será exitoso si se descifra correctamente la información esperada.
 ## Referencias
 
-Este trabajo se basa en el código original del repositorio [Beast-PoC](https://github.com/mpgn/poodle-PoC).
+Este trabajo se basa en el código original del repositorio [Poodle Attack](https://github.com/mpgn/poodle-PoC).
