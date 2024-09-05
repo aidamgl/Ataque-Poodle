@@ -93,3 +93,6 @@ Una vez que el ataque se haya completado con éxito, la información descifrada 
 ## Resultados Esperados
 - Al completar el ataque, se mostrará en la terminal del proxy la información descifrada desde el servidor vulnerable.
 - El ataque será exitoso si se descifra correctamente la información esperada.
+## Referencias
+
+Este trabajo se basa en el código original del repositorio [Beast-PoC](https://github.com/mpgn/poodle-PoC).
